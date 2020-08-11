@@ -1,7 +1,9 @@
 ##### E-Tool release note.
 
-You can download E-Tool application from here:
+You can download E-Tool release version from here:
 
-https://gitee.com/makerinchina/E-Tool-release/releases
+github: https://github.com/makerinchina-iot/E-Tool-release/releases
+
+gitee: https://gitee.com/makerinchina/E-Tool-release/releases
 
 
