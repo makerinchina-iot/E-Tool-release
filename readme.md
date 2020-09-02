@@ -15,3 +15,8 @@ https://makerinchina.cn/docs/index.html?file=001-E-Tool%E5%B7%A5%E5%85%B7/001-E-
 
 - Enslish Version:
 
+[](https://github.com/makerinchina-iot/E-Tool-release/blob/master/E-Tool%E7%95%8C%E9%9D%A2-en.jpg)
+
+- Chinese Version 中文版本
+
+[](https://github.com/makerinchina-iot/E-Tool-release/blob/master/E-Tool%E7%95%8C%E9%9D%A2.jpg)
