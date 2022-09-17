@@ -9,7 +9,7 @@ github: https://github.com/makerinchina-iot/E-Tool-release/releases
 gitee: https://gitee.com/makerinchina/E-Tool-release/releases
 
 ##### User menual
-https://makerinchina.cn/docs/index.html?file=001-E-Tool%E5%B7%A5%E5%85%B7/001-E-Ttool%E7%AE%80%E4%BB%8B
+https://makerinchina.cn/wiki/#/./page/001-E-Tool%E5%B7%A5%E5%85%B7/001-E-Ttool%E7%AE%80%E4%BB%8B
 
 ##### Screenshot
 
