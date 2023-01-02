@@ -1,3 +1,5 @@
+### Deprecated, a new tool is in progress [https://github.com/makerinchina-iot/MonkeyDebugViewer-release](https://github.com/makerinchina-iot/MonkeyDebugViewer-release)
+
 ##### E-Tool is an easy to use tool for embed software engineer, makers, etc.
 
 ##### E-Tool release note.
